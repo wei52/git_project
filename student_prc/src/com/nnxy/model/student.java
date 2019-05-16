@@ -1,8 +1,9 @@
 package com.nnxy.model;
 
 public class student {
-	private int id;
-	private int sex;
+	private int id;//id
+	private int sex;//sex
+	
 	public student(int id, int sex) {
 		super();
 		this.id = id;
